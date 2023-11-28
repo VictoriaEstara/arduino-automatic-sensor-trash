@@ -15,11 +15,17 @@ Proyek ini dikembangkan menggunakan [Arduino IDE](https://www.arduino.cc/en/soft
 ## Alat Pendukung
 
 1x Arduino Uno R3 Atmega328P DIP + 16U2 with Cable
+
 1x Tower Pro Micro Servo Mini 9 Gram, 1.6Kg, 12 Sec.
+
 1x HC-SR04 Sensor Ultrasonic Module
+
 1x LED Blue 5mm
+
 3x Female to Female Wire
+
 4x Male to Female
+
 1x Tong Sampah Manual
 
 ## Cara Penggunaan
@@ -28,7 +34,7 @@ Buka
 ## Preview Prototipe
 Klik [tautan](https://youtu.be/ayjj4PM1EOo?si=qAO4eSFFvVy72fYW) ini untuk menonton cuplikan.
 
-## Contoh Program
+## Contoh Penggunaan Program
 ```ino
 //define Pins
 #include <Servo.h>
