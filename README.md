@@ -29,7 +29,7 @@ Proyek ini dikembangkan menggunakan [Arduino IDE](https://www.arduino.cc/en/soft
 1x Tong Sampah Manual
 
 ## Cara Penggunaan
-Buka dokumen laporan praktikum melalui [Tautan](https://github.com/VictoriaEstara/arduino-automatic-sensor-trash/blob/fb649db62e220d0d7d02bee0741f24478b5855f3/laporan-praktikum.pdf) ini untuk membaca cara kerja prototipe.
+Buka dokumen laporan praktikum melalui [tautan](https://github.com/VictoriaEstara/arduino-automatic-sensor-trash/blob/fb649db62e220d0d7d02bee0741f24478b5855f3/laporan-praktikum.pdf) ini untuk membaca cara kerja prototipe.
 
 ## Preview Prototipe
 Klik [tautan](https://youtu.be/ayjj4PM1EOo?si=qAO4eSFFvVy72fYW) ini untuk menonton video terkait prototipe.
